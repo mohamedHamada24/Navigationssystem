@@ -1,0 +1,126 @@
+Adresse:
+Name: h-da
+Längengrad: 49.8668
+Breitengrad: 8.63991
+Parameter: MeinOrt
+Poi:
+Name: Frankfurt am Main
+Längengrad: 50.1155
+Breitengrad: 8.68417
+Parameter: Stadt
+Poi:
+Name: Stuttgart
+Längengrad: 48.77
+Breitengrad: 9.18
+Parameter: Hauptstadt Baden-Württemberg
+Poi:
+Name: München
+Längengrad: 48.13
+Breitengrad: 11.58
+Parameter: Hauptstadt Bayern
+Poi:
+Name: Berlin
+Längengrad: 52.52
+Breitengrad: 13.405
+Parameter: Hauptstadt
+Poi:
+Name: Potsdam
+Längengrad: 52.39
+Breitengrad: 13.06
+Parameter: Hauptstadt Brandenburg
+Poi:
+Name: Bremen
+Längengrad: 53.07
+Breitengrad: 8.8
+Parameter: Hauptstadt Bremen
+Poi:
+Name: Hamburg
+Längengrad: 53.55
+Breitengrad: 9.99
+Parameter: Hauptstadt Hamburg
+Poi:
+Name: Wiesbaden
+Längengrad: 50.0782
+Breitengrad: 8.23976
+Parameter: Hauptstadt Hessen
+Poi:
+Name: Schwerin
+Längengrad: 53.62
+Breitengrad: 11.41
+Parameter: Hauptstadt Mecklenburg-Vorpommern
+Poi:
+Name: Hannover
+Längengrad: 52.37
+Breitengrad: 9.73
+Parameter: Hauptstadt Niedersachsen
+Poi:
+Name: Düsseldorf
+Längengrad: 51.22
+Breitengrad: 6.77
+Parameter: Hauptstadt Nordrhein-Westfalen
+Poi:
+Name: Mainz
+Längengrad: 49.9929
+Breitengrad: 8.24725
+Parameter: Hauptstadt Rheinland-Pfalz
+Poi:
+Name: Saarbrücken
+Längengrad: 49.24
+Breitengrad: 6.99
+Parameter: Hauptstadt Saarland
+Poi:
+Name: Dresden
+Längengrad: 51.05
+Breitengrad: 13.73
+Parameter: Hauptstadt Sachsen
+Poi:
+Name: Magdeburg
+Längengrad: 52.13
+Breitengrad: 11.63
+Parameter: Hauptstadt Sachsen-Anhalt
+Poi:
+Name: Kiel
+Längengrad: 54.32
+Breitengrad: 10.12
+Parameter: Hauptstadt Schleswig-Holstein
+Poi:
+Name: Erfurt
+Längengrad: 50.98
+Breitengrad: 11.02
+Parameter: Hauptstadt Thüringen
+Poi:
+Name: Heidelberg
+Längengrad: 49.3988
+Breitengrad: 8.6724
+Parameter: nicht Nachbar ID: 0
+Poi:
+Name: Karlsruhe
+Längengrad: 49.0069
+Breitengrad: 8.4037
+Parameter: Stadt
+Poi:
+Name: Leipzig
+Längengrad: 51.3397
+Breitengrad: 12.3731
+Parameter: Stadt
+Poi:
+Name: Nürnberg
+Längengrad: 49.4521
+Breitengrad: 11.0767
+Parameter: Stadt
+Poi:
+Name: Essen
+Längengrad: 51.4556
+Breitengrad: 7.0116
+Parameter: Stadt
+Poi:
+Name: Bonn
+Längengrad: 50.7374
+Breitengrad: 7.0982
+Parameter: Stadt
+Poi:
+Name: Lübeck
+Längengrad: 53.8655
+Breitengrad: 10.6866
+Parameter: Stadt
+

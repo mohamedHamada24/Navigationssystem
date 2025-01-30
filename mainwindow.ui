@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1503</width>
+    <height>1359</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>true</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="mapLabel">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>-30</y>
+      <width>1041</width>
+      <height>1341</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>navigation_karte/background.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QScrollBar" name="verticalScrollBar">
+    <property name="geometry">
+     <rect>
+      <x>1440</x>
+      <y>20</y>
+      <width>20</width>
+      <height>1181</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Berlin">
+    <property name="geometry">
+     <rect>
+      <x>1070</x>
+      <y>430</y>
+      <width>99</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Berlin</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Munchen">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>1010</y>
+      <width>99</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Munchen</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Dresden">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>670</y>
+      <width>99</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Dresden</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Bremen">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>340</y>
+      <width>99</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bremen</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Saarbrucken">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>940</y>
+      <width>99</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Saarbrücken</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Stuttgart">
+    <property name="geometry">
+     <rect>
+      <x>680</x>
+      <y>1070</y>
+      <width>99</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Stuttgart</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="hda">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>880</y>
+      <width>99</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>h-da</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="distanceButton">
+    <property name="geometry">
+     <rect>
+      <x>1219</x>
+      <y>20</y>
+      <width>171</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Entfernung</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="infoButton">
+    <property name="geometry">
+     <rect>
+      <x>1220</x>
+      <y>80</y>
+      <width>171</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Information</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="allLocationsButton">
+    <property name="geometry">
+     <rect>
+      <x>1220</x>
+      <y>140</y>
+      <width>171</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Alle Orte</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="myLocationButton">
+    <property name="geometry">
+     <rect>
+      <x>1220</x>
+      <y>200</y>
+      <width>171</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Mein Standort</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1503</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
